@@ -22,8 +22,8 @@ from __future__ import print_function
 import attr
 
 PUPPER_DEFAULT_ABDUCTION_ANGLE = 0
-PUPPER_DEFAULT_HIP_ANGLE = 0.6
-PUPPER_DEFAULT_KNEE_ANGLE = -1.2
+PUPPER_DEFAULT_HIP_ANGLE = -0.6
+PUPPER_DEFAULT_KNEE_ANGLE = 1.2
 
 @attr.s
 class PupperPose(object):

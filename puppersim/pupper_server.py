@@ -128,8 +128,8 @@ jointIds=[]
 paramIds=[]          
                      
 ABDUCTION_ANGLE=0
-HIP_ANGLE=-0.6
-KNEE_ANGLE=1.2
+HIP_ANGLE=0.6
+KNEE_ANGLE=-1.2
 initial_joint_poses = [ABDUCTION_ANGLE,HIP_ANGLE,KNEE_ANGLE]*4
 joint_index=0
 
